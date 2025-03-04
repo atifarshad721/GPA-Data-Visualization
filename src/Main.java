@@ -500,7 +500,7 @@ public class Main extends Application {
 
         students.addAll(originalOrder);
     }
-    
+    // Path: src/Student.java
     public static void main(String[] args) {
         launch();
     }
